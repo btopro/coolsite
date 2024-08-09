@@ -85,19 +85,22 @@
     },
     {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
       "slug": "lesson-1/introduction",
       "order": 1,
       "parent": null,
-      "title": "Introduction",
-      "description": "",
+      "title": "About btopro",
+      "description": "HAX project lead developer, btopro works at Penn State developing HAX for online courses, blogging, and general website development. Teaching HTML, CSS and JS in IST 256, he is able to help more youn",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1723216821
+        "images": {},
+        "videos": {},
+        "updated": 1723222426,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
