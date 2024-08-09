@@ -70,7 +70,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]thumbnail_haxorz.jpg",
+            "fullUrl": "//home/btopro/coolsite/files/thumbnail_haxorz.jpg",
+            "url": "files/thumbnail_haxorz.jpg",
+            "type": "image/jpeg",
+            "name": "thumbnail_haxorz.jpg",
+            "size": 15044
+          }
+        ]
       }
     },
     {
